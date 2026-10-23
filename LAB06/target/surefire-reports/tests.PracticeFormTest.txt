@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.PracticeFormTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 119.9 s -- in tests.PracticeFormTest
